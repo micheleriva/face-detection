@@ -8,6 +8,12 @@ Simple face detection class based on OpenCV for Node.js on top of C++ APIS.
 $ yarn add face-detection
 ```
 
+or
+
+```sh
+$ npm install --save face-detection
+```
+
 Note: installation may require some minutes. This library uses `opencv4nodejs` which needs to be compiled from sources and that process is gonna take some time.
 
 # Usage
