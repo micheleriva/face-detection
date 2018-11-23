@@ -1,0 +1,23 @@
+{
+  "name": "face-detection",
+  "version": "0.1.5",
+  "description": "Simple face detection class based on OpenCV for Node.js on top of C++ APIS.",
+  "main": "index.js",
+  "repository": "https://MicheleRiva@bitbucket.org/om-art/face-detection-ocv3-js.git",
+  "author": "Michele Riva <master@micheleriva.it>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "gm": "^1.23.1",
+    "opencv4nodejs": "4.7.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.6.0"
+  }
+}
